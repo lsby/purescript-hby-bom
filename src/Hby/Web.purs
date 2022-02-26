@@ -1,4 +1,4 @@
-module Hby.Web where
+module Hby.Bom where
 
 import Data.Argonaut (Json)
 import Hby.Task (Task)
